@@ -1,8 +1,0 @@
-{
-  "parent": "block/orientable",
-  "textures": {
-    "top": "atmoradio:block/radio_top",
-    "front": "atmoradio:block/radio_front",
-    "side": "atmoradio:block/radio_side"
-  }
-}

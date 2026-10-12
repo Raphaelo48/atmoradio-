@@ -1,8 +1,0 @@
-{
-  "variants": {
-    "facing=north": { "model": "atmoradio:block/radio" },
-    "facing=south": { "model": "atmoradio:block/radio", "y": 180 },
-    "facing=east":  { "model": "atmoradio:block/radio", "y": 90 },
-    "facing=west":  { "model": "atmoradio:block/radio", "y": 270 }
-  }
-}
