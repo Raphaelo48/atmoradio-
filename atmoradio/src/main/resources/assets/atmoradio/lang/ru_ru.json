@@ -1,0 +1,11 @@
+{
+  "block.atmoradio.radio": "Радиоприёмник",
+  "item.atmoradio.radio": "Радиоприёмник",
+  "gui.atmoradio.search.title": "Веб-радио",
+  "gui.atmoradio.search.box": "Введите название трека...",
+  "gui.atmoradio.search.button": "Найти",
+  "gui.atmoradio.search.loading": "Поиск...",
+  "gui.atmoradio.search.empty": "Ничего не найдено",
+  "gui.atmoradio.play": "Играть",
+  "gui.atmoradio.stop": "Стоп"
+}
